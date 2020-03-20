@@ -1,4 +1,4 @@
-# FlymaOS lightdm greeter
+# PandaOS lightdm greeter
 
 ## Dependencies
 
@@ -8,9 +8,9 @@
 
 Update or insert in(to) your `/etc/lightdm/lightdm.conf`, in the `SeatDefaults section`, this line:
 
-`greeter-session=flyma-greeter`
+`greeter-session=panda-greeter`
 
 ## Configure qt-lightdm-greeter
 
-The file `/etc/lightdm/flyma-greeter.conf` allows for a few configurations of flyma-greeter (background-image, positioning of loginform). The configuration options are documented in that file.
+The file `/etc/lightdm/panda-greeter.conf` allows for a few configurations of panda-greeter (background-image, positioning of loginform). The configuration options are documented in that file.
 

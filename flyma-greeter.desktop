@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=FlymaOS LightDM Greeter
-Comment=FlymaOS LightDM Greeter
-Exec=flyma-greeter
-Type=Application
-X-Ubuntu-Gettext-Domain=lightdm

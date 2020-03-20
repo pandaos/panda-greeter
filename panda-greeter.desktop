@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=PandaOS LightDM Greeter
+Comment=PandaOS LightDM Greeter
+Exec=pandaos-greeter
+Type=Application
+X-Ubuntu-Gettext-Domain=lightdm
